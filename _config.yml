@@ -10,16 +10,16 @@ author:
 #Target date in UTC / GMT
 countdown:
   theme: red
-  year: 2020
+  year: 2018
   month: 1
   day: 1
   hour: 0
   minute: 0
 
 # Site owner
-owner:
-  name:
-  email:
+owner: harendrasingh  
+  name: Harendra Singh
+  email: mail@harendrasingh.tech
   twitter:
   google-plus:
   instagramm:
