@@ -17,9 +17,9 @@ countdown:
   minute: 0
 
 # Site owner
-owner: harendrasingh  
-  name:Harendra_Singh
-  email:mail@harendrasingh.tech
+  owner: harendrasingh  
+  name: Harendra_Singh
+  email: mail@harendrasingh.tech
   twitter:
   google-plus:
   instagramm:
