@@ -9,7 +9,7 @@ author:
 
 #Target date in UTC / GMT
 countdown:
-  theme: red
+  theme: blue
   year: 2018
   month: 1
   day: 1
